@@ -1,5 +1,5 @@
 /**
- * Turn Off My Monitor v1.0 by Espen 'Rexxars' Hovlandsdal - www.rexxars.com
+ * Turn Off My Monitor v1.0 by Espen 'Rexxars' Hovlandsdal - espen.codes
  * Turns off your monitors and lets you specify a time to wait before doing so.
  *
  * Compile with something similar to:
